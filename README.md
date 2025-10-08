@@ -1,5 +1,5 @@
 # SV3x8-SimpleCart
-This is a simple 32kB cartridge for SpectraVideo [SVI318](https://en.wikipedia.org/wiki/SV-318) and [SVI328](https://en.wikipedia.org/wiki/SV-328) computers.
+This is a simple 32kB cartridge for Spectravideo [SVI318](https://en.wikipedia.org/wiki/SV-318) and [SVI328](https://en.wikipedia.org/wiki/SV-328) computers.
 
 ![Example Cartridge](pics/cartridge.jpg)
 
