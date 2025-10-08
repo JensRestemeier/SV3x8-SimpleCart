@@ -1,0 +1,404 @@
+(footprint "svi328_cartridge"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "P1"
+		(at 18 -1 0)
+		(layer "F.SilkS")
+		(uuid "48052e79-4533-42c3-a47f-efe594e92279")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN_02X15"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5e37ad2d-1acc-49ca-9e53-18adc992e3ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b9f8e9b-8286-4dd0-bba9-6d997f5d606b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b1aabea-15be-48d8-8ba1-5249816c71d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -21 1)
+		(end 21 12.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "106d4a55-de2f-43ba-bf3e-06a234cf3610")
+	)
+	(fp_rect
+		(start -21 1)
+		(end 21 12.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "d0f1ab5d-8833-41bf-b3d2-ac1f2b8f9651")
+	)
+	(pad "1" connect rect
+		(at 17.78 0)
+		(size 1.5 8.5)
+		(drill
+			(offset 0 4.25)
+		)
+		(layers "B.Cu")
+		(uuid "6ef2c9bc-cc23-4477-8577-4d42dfad41df")
+	)
+	(pad "2" connect rect
+		(at 17.78 0)
+		(size 1.5 8.5)
+		(drill
+			(offset 0 4.25)
+		)
+		(layers "F.Cu")
+		(uuid "a115916d-448d-4043-bf0a-64336adf22f7")
+	)
+	(pad "3" connect roundrect
+		(at 15.24 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "ab48550a-6ebc-4cdb-b4b1-28a287b19a2b")
+	)
+	(pad "4" connect roundrect
+		(at 15.24 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "ae738573-1222-4545-8363-5e2201b4c95f")
+	)
+	(pad "5" connect roundrect
+		(at 12.7 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "b399d79c-b7af-4632-888e-894d3d8683e6")
+	)
+	(pad "6" connect roundrect
+		(at 12.7 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "2e60ae2e-39e7-4894-b08d-c701cedd94dc")
+	)
+	(pad "7" connect roundrect
+		(at 10.16 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "80358584-064e-4063-b6fb-2680414fba1d")
+	)
+	(pad "8" connect roundrect
+		(at 10.16 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "870b53b6-8edf-4758-88b6-3e62a9dfa770")
+	)
+	(pad "9" connect roundrect
+		(at 7.62 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "2ef1b825-146d-4d2f-bc7f-24f0398b81ee")
+	)
+	(pad "10" connect roundrect
+		(at 7.62 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "28dec74d-ce9c-4a0d-ac83-ea4cd1f72e7c")
+	)
+	(pad "11" connect roundrect
+		(at 5.08 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "bf85a65e-544d-43b4-8fec-618162614910")
+	)
+	(pad "12" connect roundrect
+		(at 5.08 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "a002c888-37a1-4cde-9f52-60da23fb54cf")
+	)
+	(pad "13" connect roundrect
+		(at 2.54 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "362271d4-72c9-4ffe-9ebb-807c56512f38")
+	)
+	(pad "14" connect roundrect
+		(at 2.54 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "182ae87e-5704-41d0-bf55-c27f27ba80fb")
+	)
+	(pad "15" connect roundrect
+		(at 0 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "78fad2a3-9408-491b-8b15-45c736da0bbc")
+	)
+	(pad "16" connect roundrect
+		(at 0 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "2ed4e1fe-8260-4f63-b029-dbf7944ba3a4")
+	)
+	(pad "17" connect roundrect
+		(at -2.54 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "5f33dca1-ff6e-45bb-a950-734b240f5058")
+	)
+	(pad "18" connect roundrect
+		(at -2.54 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "dd80724e-ba38-47bb-91ab-a91eae8233c6")
+	)
+	(pad "19" connect roundrect
+		(at -5.08 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "b3c0171c-b74a-4700-b016-dd32078fd5c8")
+	)
+	(pad "20" connect roundrect
+		(at -5.08 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "496b6dde-e23f-4716-86a7-49ce349588a3")
+	)
+	(pad "21" connect roundrect
+		(at -7.62 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "e9e29963-d9ca-441b-87e2-13801254fdab")
+	)
+	(pad "22" connect roundrect
+		(at -7.62 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "f89162ad-244d-4b62-b88f-79fbe47896b2")
+	)
+	(pad "23" connect roundrect
+		(at -10.16 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "da905238-1988-4fca-9f68-c44bd1e27900")
+	)
+	(pad "24" connect roundrect
+		(at -10.16 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "e9fe1457-7f07-4849-88bb-cb42692cd212")
+	)
+	(pad "25" connect roundrect
+		(at -12.7 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "7f927c4b-c259-4a7d-aab8-e4c3f8aa55a7")
+	)
+	(pad "26" connect roundrect
+		(at -12.7 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "e567e107-d39b-4275-b5cd-6cde5e930d7d")
+	)
+	(pad "27" connect roundrect
+		(at -15.24 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "B.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "f3558ef0-dfe9-44bb-a46a-6a0e5bd8351a")
+	)
+	(pad "28" connect roundrect
+		(at -15.24 1.75)
+		(size 1.5 8)
+		(drill
+			(offset 0 3.25)
+		)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(uuid "f6a24665-bc4c-4c0e-b397-d890837bd207")
+	)
+	(pad "29" connect rect
+		(at -17.78 0)
+		(size 1.5 9)
+		(drill
+			(offset 0 4.5)
+		)
+		(layers "B.Cu")
+		(uuid "e6f6212d-726d-4759-a5db-41479f47c24c")
+	)
+	(pad "30" connect rect
+		(at -17.78 0)
+		(size 1.5 9)
+		(drill
+			(offset 0 4.5)
+		)
+		(layers "F.Cu")
+		(uuid "a2b7d85e-48d4-47f7-ab15-20aadc8463a5")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "F.Mask" "B.Cu")
+		(uuid "94a9ad9b-e8a3-4fbf-b1e2-cbc60eaa71a5")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -20 2.5) (xy 20 2.5) (xy 20 9.905) (xy -20 9.905)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SV3x8-SimpleCart")(type "KiCad")(uri "${KIPRJMOD}/SV3x8-SimpleCart.pretty")(options "")(descr ""))
+)
