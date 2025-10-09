@@ -1,7 +1,7 @@
 # SV3x8-SimpleCart
 This is a simple 32kB cartridge for Spectravideo [SVI318](https://en.wikipedia.org/wiki/SV-318) and [SVI328](https://en.wikipedia.org/wiki/SV-328) computers.
 
-![Example Cartridge](pics/cartridge.jpg)
+![Example Cartridge Assembled](pics/cartridge.jpg)
 
 ## The PCB
 You can preview the KiCad project on [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FJensRestemeier%2FSV3x8-SimpleCart%2Ftree%2Fmain%2FKiCad).
@@ -14,3 +14,8 @@ The STL directory contains files suitable for 3D printing, either on your own re
 ## Labels
 SVG labels for a few games are in the label folder. Contributions welcome.
 
+## Pictures
+The gray cartridge is an original, the white cartridge is a resin print of a slightly earlier version, the green cartridge is a PLA print.
+
+![Example Cartridge Outside](pics/outside.jpg)
+![Example Cartridge Inside](pics/inside.jpg)
