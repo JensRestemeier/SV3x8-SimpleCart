@@ -20,3 +20,7 @@ The gray cartridge is an original, the white cartridge is a resin print of a sli
 
 ![Example Cartridge Outside](pics/outside.jpg)
 ![Example Cartridge Inside](pics/inside.jpg)
+
+## Alternatives
+
+![Noel's Retro Lab's cartridge](https://github.com/llopis/SVI328-ROM-Cartridge)
