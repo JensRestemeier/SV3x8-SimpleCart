@@ -18,3 +18,9 @@ The logo was cut out from a picture of the Colecovision box.
 
 ## Frantic Freddy
 The logo was cut out from a picture of the Colecovision box.
+
+## Operation Hibernation
+Buy it at https://arugulaz.itch.io/operation-hibernation
+
+## Edge Grinder
+Currently in tech-test stage: https://jensrestemeier.itch.io/edge-grinder-msx
